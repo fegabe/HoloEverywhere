@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="nirvana">
+		<item>Kurt Donald Cobain</item>
+		<item>Krist Anthony Novoselic</item>
+		<item>David Eric Grohl</item>
+		<item>Aaron Burckhard</item>
+		<item>Chad Channing</item>
+		<item>Daniel Joe Peters</item>
+		<item>Dave Foster</item>
+	</string-array>
+	<string-array name="skillet">
+		<item>John Landrum Cooper</item>
+		<item>Korene Marie Pingitore</item>
+		<item>Jennifer Carole Ledger</item>
+		<item>Jacob Seth Morrison</item>
+	</string-array>
+	<string-array name="countries">
+		<item>Belgium</item>
+		<item>Russia</item>
+		<item>France</item>
+		<item>Italy</item>
+		<item>Germany</item>
+		<item>Spain</item>
+	</string-array>
+	<string-array name="adjectives">
+		<item>Kind</item>
+		<item>Enthusiastic</item>
+		<item>Yummy</item>
+		<item>Lucky</item>
+		<item>Immense</item>
+		<item>Miniature</item>
+		<item>Elated</item>
+		<item>Perfect</item>
+		<item>Incredible</item>
+		<item>Exuberant</item>
+		<item>Beautiful</item>
+		<item>Great</item>
+		<item>Stunning</item>
+		<item>Helpful</item>
+		<item>Startling</item>
+		<item>Fantastic</item>
+		<item>Colossal</item>
+		<item>Mysterious</item>
+		<item>Crazy</item>
+	</string-array>
+</resources>
